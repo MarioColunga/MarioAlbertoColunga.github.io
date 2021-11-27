@@ -2,6 +2,8 @@
 
 Descripyion: The following READ ME File contents the acceptance the specifications of the user story and the acceptance criteria. The following screen shots show the final results. 
 
+![SS1](https://user-images.githubusercontent.com/87739510/143718637-aee50e18-c331-4341-a66f-63b130a4fff1.png)
+![SS2](https://user-images.githubusercontent.com/87739510/143718641-817951df-c05c-4027-836f-6f945e49ef44.png)
 
 ## User Story
 
